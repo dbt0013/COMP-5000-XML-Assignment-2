@@ -24,7 +24,7 @@
       <phone>(407) 555-3476</phone>
       <email>jk@example.net</email>
       <orders>
-         <order orderID="or1089" orderBy="cust201">
+         <order orderID="or109" orderBy="cust201">
             <orderDate>2016-08-11</orderDate>
             <items>
 	       <item itemNumber="WM100PL">
@@ -51,7 +51,7 @@
       <phone>(540) 555-1788</phone>
       <email>dabernath@example.net</email>
       <orders>
-         <order orderID="or1021" orderBy="cust202">
+         <order orderID="or102" orderBy="cust202">
             <orderDate>2017-08-01</orderDate>
             <items>
                <item itemNumber="WM100PL">
@@ -64,7 +64,7 @@
                </item> 
             </items>
          </order>
-         <order orderID="or1122" orderBy="cust202">
+         <order orderID="or122" orderBy="cust202">
             <orderDate>2017-10-01</orderDate>
             <items>
                <item itemNumber="H115E">
@@ -90,7 +90,7 @@
       </address>
       <phone>(715) 555-4022</phone>
       <orders>
-         <order orderID="or1120" orderBy="cust203">
+         <order orderID="or120" orderBy="cust203">
             <orderDate>2017-09-15</orderDate>
             <items>
                <item itemNumber="WM140P">
